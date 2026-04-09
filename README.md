@@ -7,6 +7,9 @@ A [Zabbix](https://www.zabbix.com/) frontend module to **create**, **delete**, a
 ---
 
 ## Features
+<img width="1501" height="748" alt="Screenshot 2026-04-09 at 8 35 52 PM" src="https://github.com/user-attachments/assets/f286d187-4798-45a4-a224-3b9f797d340e" />
+<img width="1408" height="746" alt="Screenshot 2026-04-09 at 8 37 19 PM" src="https://github.com/user-attachments/assets/4fc30a60-7f11-401f-9703-af7dc3eed143" />
+<img width="1406" height="750" alt="Screenshot 2026-04-09 at 8 37 33 PM" src="https://github.com/user-attachments/assets/97d5b5b6-fedc-4735-b953-0908df23db84" />
 
 | Tab | What it does |
 |-----|----------------|
