@@ -160,26 +160,3 @@ Same list format; use **Delete** or **Update** in the corresponding tab. **Cance
 You may license your fork as you prefer. If you base this on Zabbix’s own code patterns, comply with [Zabbix’s GPL v2](https://www.zabbix.com/license) where it applies to combined works.
 
 ---
-
-## Publishing to GitHub
-
-For **[github.com/mdzeeshan-2](https://github.com/mdzeeshan-2)**, follow the step-by-step guide in **[GITHUB_SETUP.md](./GITHUB_SETUP.md)** (create the empty repo on GitHub, then push from your machine).
-
-Short version: create a new repo under your account, then from this project root:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Zabbix Bulk Host Manager module"
-git branch -M main
-git remote add origin https://github.com/mdzeeshan-2/YOUR_REPO_NAME.git
-git push -u origin main
-```
-
-After cloning, **rename the project folder to `bulkhosts`** (or copy only that folder) when installing under Zabbix `modules/`.
-
----
-
-## Contributing
-
-Issues and pull requests are welcome (documentation, translations, compatibility fixes for newer Zabbix minors).
