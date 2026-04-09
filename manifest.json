@@ -1,0 +1,20 @@
+{
+	"manifest_version": 1,
+	"id": "bulkhosts",
+	"name": "Bulk Host Manager",
+	"author": "local",
+	"description": "Create, delete, and update many hosts from CSV or comma-separated lists",
+	"version": "1.0.0",
+	"namespace": "BulkHosts",
+	"url": "",
+	"actions": {
+		"bulkhosts.form": {
+			"class": "BulkHostForm",
+			"view": "bulkhosts.form.view"
+		},
+		"bulkhosts.api": {
+			"class": "BulkHostApi",
+			"layout": "layout.json"
+		}
+	}
+}
